@@ -33,7 +33,7 @@ Material:
     - _Normals_Strength: 0.197
     - _Refraction_Scale: 0.5
     - _Refraction_Speed: 0.403
-    - _Refraction_Strength: 0.0051
+    - _Refraction_Strength: 0.008
     m_Colors:
     - _Deep_Color: {r: 0.07058824, g: 0.12156863, b: 0.25490198, a: 0.35686275}
     - _Shallow_Color: {r: 0.48627448, g: 1, b: 0.8941177, a: 0.3764706}

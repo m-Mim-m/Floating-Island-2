@@ -114,7 +114,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Horizon_Distance: 7.7
+    - _Horizon_Distance: 5.6
     - _Intersection_Foam_Color_Blend: 1
     - _Intersection_Foam_Cutoff: 1
     - _Intersection_Foam_Depth: 1.36
@@ -133,9 +133,9 @@ Material:
     - _QueueControl: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Refraction_Scale: 0.463
-    - _Refraction_Speed: 0.107
-    - _Refraction_Strength: 0.0015
+    - _Refraction_Scale: 0.5
+    - _Refraction_Speed: 0.101
+    - _Refraction_Strength: 0.0138
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -143,7 +143,7 @@ Material:
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _Surface_Foam_Color_Blend: 1
-    - _Surface_Foam_Direction: 0.703
+    - _Surface_Foam_Direction: 0.609
     - _Surface_Foam_Distortion: 4.27
     - _Surface_Foam_Speed: 0.236
     - _Surface_Foam_Tiling: 60.8
